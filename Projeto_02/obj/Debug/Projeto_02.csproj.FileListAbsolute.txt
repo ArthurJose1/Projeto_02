@@ -1,0 +1,54 @@
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\bin\Debug\Projeto_02.pdb
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csprojResolveAssemblyReference.cache
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.Properties.Resources.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.GenerateResource.Cache
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmAluno.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmLogin.resources
+C:\Users\Usuario\Desktop\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho - Cópia\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+C:\Users\Usuario\Desktop\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho - Cópia\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
+C:\Users\Usuario\Desktop\PROJETO_02 - Ítalo César Silva Oliveira _ Arthur José Rodirgues Carvalho - Cópia\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.pdb
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csprojResolveAssemblyReference.cache
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmAluno.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmLogin.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmManterAlunos.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.Properties.Resources.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.GenerateResource.Cache
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.pdb
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmAluno.resources
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmLogin.resources
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmManterAlunos.resources
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.Properties.Resources.resources
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.GenerateResource.cache
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
+F:\Desenvolvimento de Projetos\Projetos\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csprojResolveAssemblyReference.cache
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmMaterTurma.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmVisualizarAlunoTurma.resources
+\\srvacad\ARQUIVOS\MONTAGE\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmTelaPrincipal.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe.config
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.exe
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\bin\Debug\Projeto_02.pdb
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csprojAssemblyReference.cache
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmAluno.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmLogin.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmManterAlunos.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmMaterTurma.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmTelaPrincipal.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmVisualizarAlunoTurma.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.Properties.Resources.resources
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
