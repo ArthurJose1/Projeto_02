@@ -33,6 +33,12 @@ namespace Projeto_02
             }
         }
 
-}
+        private void BtnVoltar_Click(object sender, EventArgs e)
+        {
+            frmTelaPrincipal AbrirTelaPrincipal = new frmTelaPrincipal();
+            this.Hide();
+            AbrirTelaPrincipal.Show();
+        }
+    }
 
 }

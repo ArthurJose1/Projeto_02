@@ -83,5 +83,12 @@ namespace Projeto_02
                 MessageBox.Show("Curso editado com sucesso.");
             }
         }
+
+        private void BtnVoltar_Click(object sender, EventArgs e)
+        {
+            frmTelaPrincipal AbrirTelaPrincipal = new frmTelaPrincipal();
+            this.Hide();
+            AbrirTelaPrincipal.Show();
+        }
     }
 }

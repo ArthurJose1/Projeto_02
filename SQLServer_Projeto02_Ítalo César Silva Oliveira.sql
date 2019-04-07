@@ -137,10 +137,5 @@ SELECT * FROM Coordenador
 SELECT * FROM Professor
 SELECT * FROM PlanoEnsino
 
-
-SELECT*FROM Aluno WHERE ID_Aluno LIKE 3151120;
-
-SELECT Email, Senha FROM Diretor WHERE ID_Diretor = 1;
-
-SELECT * FROM Aluno WHERE Turma_ID_Turma = 10
+SELECT*FROM  Aluno WHERE Cidade LIKE 'Contagem';
 

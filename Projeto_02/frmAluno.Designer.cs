@@ -56,6 +56,7 @@
             this.label11 = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
+            this.btnVoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -287,11 +288,22 @@
             this.label14.TabIndex = 27;
             this.label14.Text = "E-Mail: ";
             // 
+            // btnVoltar
+            // 
+            this.btnVoltar.Location = new System.Drawing.Point(45, 37);
+            this.btnVoltar.Name = "btnVoltar";
+            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.TabIndex = 29;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.BtnVoltar_Click);
+            // 
             // frmAluno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(632, 407);
+            this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.txtCep);
@@ -357,5 +369,6 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Button btnVoltar;
     }
 }

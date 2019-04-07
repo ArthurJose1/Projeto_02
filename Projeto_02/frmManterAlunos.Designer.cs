@@ -64,6 +64,7 @@
             this.btnEditar = new System.Windows.Forms.Button();
             this.txtIdAluno = new System.Windows.Forms.TextBox();
             this.label17 = new System.Windows.Forms.Label();
+            this.btnVoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -362,11 +363,22 @@
             this.label17.TabIndex = 58;
             this.label17.Text = "Registro Acadêmico: ";
             // 
+            // btnVoltar
+            // 
+            this.btnVoltar.Location = new System.Drawing.Point(26, 31);
+            this.btnVoltar.Name = "btnVoltar";
+            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.TabIndex = 60;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.BtnVoltar_Click);
+            // 
             // frmManterAlunos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(650, 414);
+            this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.txtIdAluno);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.btnEditar);
@@ -448,5 +460,6 @@
         private System.Windows.Forms.Button btnEditar;
         private System.Windows.Forms.TextBox txtIdAluno;
         private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Button btnVoltar;
     }
 }

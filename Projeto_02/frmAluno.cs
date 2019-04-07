@@ -46,6 +46,13 @@ namespace Projeto_02
                     MessageBox.Show("Erro ao tentar inserir.");
                 }
             }
+
+        private void BtnVoltar_Click(object sender, EventArgs e)
+        {
+            frmTelaPrincipal AbrirTelaPrincipal = new frmTelaPrincipal();
+            this.Hide();
+            AbrirTelaPrincipal.Show();
         }
+    }
     }
 

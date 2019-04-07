@@ -43,6 +43,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnVoltar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTurma)).BeginInit();
             this.SuspendLayout();
             // 
@@ -174,11 +175,22 @@
             this.label3.TabIndex = 15;
             this.label3.Text = "Pesquisar por nome: ";
             // 
+            // btnVoltar
+            // 
+            this.btnVoltar.Location = new System.Drawing.Point(28, 30);
+            this.btnVoltar.Name = "btnVoltar";
+            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.TabIndex = 18;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.BtnVoltar_Click);
+            // 
             // frmMaterTurma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(469, 340);
+            this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.button3);
@@ -219,5 +231,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnVoltar;
     }
 }

@@ -33,6 +33,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.dgvAlunos = new System.Windows.Forms.DataGridView();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnVoltar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTurma)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlunos)).BeginInit();
             this.SuspendLayout();
@@ -82,11 +83,22 @@
             this.label3.TabIndex = 15;
             this.label3.Text = "Consultar Alunos por Turma";
             // 
+            // btnVoltar
+            // 
+            this.btnVoltar.Location = new System.Drawing.Point(12, 19);
+            this.btnVoltar.Name = "btnVoltar";
+            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.TabIndex = 18;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.BtnVoltar_Click);
+            // 
             // frmVisualizarAlunoTurma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(577, 450);
+            this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.dgvAlunos);
             this.Controls.Add(this.label2);
@@ -108,5 +120,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DataGridView dgvAlunos;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnVoltar;
     }
 }
