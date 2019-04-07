@@ -9,14 +9,14 @@ namespace Projeto_02
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.asfsadfasdfsa
+        /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmManterAlunos());
+            Application.Run(new frmManterFuncionarios());
         }
     }
 }

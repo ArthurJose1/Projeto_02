@@ -1,0 +1,2 @@
+colocar verificação se a pessoa clicou em um funcionario para editar para que assim a variável idCodigoFuncionário tenha 
+um valor

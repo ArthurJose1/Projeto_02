@@ -12,13 +12,13 @@ namespace Projeto_02
 
         ClasseAcessoBD bd = new ClasseAcessoBD();
 
-        int IdFuncionario { get; set; }
-        string Nome { get; set; }
-        string Celular { get; set; }
-        string DataNascimento { get; set; }
-        string Email { get; set; }
-        string Cargo { get; set; }
-        string Senha { get; set; }
+        public int IdFuncionario { get; set; }
+        public string Nome { get; set; }
+        public string Celular { get; set; }
+        public string DataNascimento { get; set; }
+        public string Email { get; set; }
+        public string Cargo { get; set; }
+        public string Senha { get; set; }
 
         public bool InserirFuncionario()
         {
