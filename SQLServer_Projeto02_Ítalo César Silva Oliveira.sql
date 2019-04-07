@@ -20,7 +20,7 @@ CREATE TABLE Funcionario (
 ID_Funcionario  INT IDENTITY(300,10) PRIMARY KEY,
 Nome VARCHAR(80),
 Celular VARCHAR(11),
-Data_Nascimento DATE,
+Data_Nascimento VARCHAR(10),
 Email VARCHAR(100),
 Cargo VARCHAR(60),
 Senha VARCHAR(30)
@@ -67,8 +67,6 @@ ID_Coordenador INT IDENTITY(1,1) PRIMARY KEY,
 ID_Funcionario_Coordenador INT,
 FOREIGN KEY(ID_Funcionario_Coordenador) REFERENCES Funcionario (ID_Funcionario)
 )
-
-
 
 CREATE TABLE Professor (
 ID_Professor INT IDENTITY(1,1) PRIMARY KEY,
