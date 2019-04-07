@@ -23,7 +23,16 @@ namespace Projeto_02
             dgvTurma.DataSource = turma.RetornarTurmas();
         }
         int TurmaDosAlunos = 0;
+        
+        public void DgvTurma_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (dgvTurma.Rows[e.RowIndex].Cells["Id_Turma"].Value.ToString() != "")
+            {
+                TurmaDosAlunos = int.Parse(dgvTurma.Rows[e.RowIndex].Cells["Id_Turma"].Value.ToString());
+                dgvAlunos.DataSource = aluno.RetornarAlunoPorTurma(TurmaDosAlunos);
+            }
+        }
 
+}
 
-    }
 }

@@ -65,10 +65,10 @@ namespace Projeto_02
             return true;
         }
 
-        public DataTable RetornarAlunoPorTurma()
+        public DataTable RetornarAlunoPorTurma(int TurmaDosAlunos)
         {
             bd.Conectar();
-            DataTable dt = bd.RetDataTable(String.Format("SELECT * FROM Aluno WHERE Turma_ID_Tuma = {0}", IdTurma));
+            DataTable dt = bd.RetDataTable(String.Format("SELECT * FROM Aluno WHERE Turma_ID_Turma = {0}", TurmaDosAlunos));
             bd.Desconectar();
             return dt;
         }
