@@ -31,8 +31,9 @@ ID_Curso INT IDENTITY(1000,5) PRIMARY KEY,
 Nome VARCHAR(80),
 Duracao VARCHAR(60),
 Preco  FLOAT,
-Data_Inicio DATE,
-Data_Fim DATE
+Data_Inicio VARCHAR(10),
+Data_Fim VARCHAR(10),
+Descricao VARCHAR(350)
 )
 
 CREATE TABLE Turma (
@@ -102,7 +103,8 @@ INSERT INTO Funcionario (Nome, Celular, Data_Nascimento, Email, Cargo, Senha) VA
 SELECT * FROM Funcionario
 
 -- Inserção dos valores da tabela Curso
-INSERT INTO Curso (Nome, Duracao, Preco, Data_Inicio, Data_Fim) VALUES ('Tecnico em Informatica', '640 horas', 4300, '2019/04/01', '2019/10/30')
+INSERT INTO Curso (Nome, Duracao, Preco, Data_Inicio, Data_Fim,Descricao) VALUES ('Tecnico em Informatica', '640 horas', 6500.00, '05/02/2019', '30/06/2020','O curso de técnico em informática tem duração média de um ano e meio. Durante os módulos, o estudante participa de atividades práticas, desde a montagem de computadores no início do curso, bem como o desenvolvimento de sistemas ao final.')
+INSERT INTO Curso (Nome, Duracao, Preco, Data_Inicio, Data_Fim,Descricao) VALUES ('Tecnico em Redes', '300 horas', 4300.00, '01/02/2019', '20/07/2020','O curso técnico em Redes de Computadores está inserido no eixo tecnológico informação e comunicação que compreende tecnologias relacionadas à comunicação e ao processamento de dados e informações. Abrange os sistemas operacionais, protocolos de comunicação, equipamentos e arquitetura de redes e sua segurança.')
 SELECT * FROM Curso
 
 -- Inserção dos valores da tabela Turma
@@ -143,3 +145,4 @@ SELECT*FROM Aluno WHERE ID_Aluno LIKE 3151120;
 SELECT Email, Senha FROM Diretor WHERE ID_Diretor = 1;
 
 SELECT * FROM Aluno WHERE Turma_ID_Turma = 10
+

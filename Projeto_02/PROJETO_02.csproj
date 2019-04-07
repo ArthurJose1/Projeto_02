@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ClasseAcessoBD.cs" />
     <Compile Include="ClasseAlunos.cs" />
+    <Compile Include="ClasseCurso.cs" />
     <Compile Include="ClasseLogin.cs" />
     <Compile Include="ClasseTurma.cs" />
     <Compile Include="frmAluno.cs">
@@ -67,6 +68,12 @@
     </Compile>
     <Compile Include="frmManterAlunos.Designer.cs">
       <DependentUpon>frmManterAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterCurso.Designer.cs">
+      <DependentUpon>frmManterCurso.cs</DependentUpon>
     </Compile>
     <Compile Include="frmMaterTurma.cs">
       <SubType>Form</SubType>
@@ -96,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmManterAlunos.resx">
       <DependentUpon>frmManterAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterCurso.resx">
+      <DependentUpon>frmManterCurso.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMaterTurma.resx">
       <DependentUpon>frmMaterTurma.cs</DependentUpon>

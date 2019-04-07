@@ -404,7 +404,7 @@
             this.Controls.Add(this.txtPesquisarMatricula);
             this.Controls.Add(this.label1);
             this.Name = "frmManterAlunos";
-            this.Text = "frmManterAlunos";
+            this.Text = "Manter Alunos";
             this.ResumeLayout(false);
             this.PerformLayout();
 

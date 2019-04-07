@@ -77,7 +77,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(243, 89);
+            this.label5.Location = new System.Drawing.Point(243, 95);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(89, 13);
             this.label5.TabIndex = 4;
@@ -108,14 +108,14 @@
             // 
             // txtNumeroSala
             // 
-            this.txtNumeroSala.Location = new System.Drawing.Point(338, 86);
+            this.txtNumeroSala.Location = new System.Drawing.Point(338, 92);
             this.txtNumeroSala.Name = "txtNumeroSala";
             this.txtNumeroSala.Size = new System.Drawing.Size(119, 20);
             this.txtNumeroSala.TabIndex = 8;
             // 
             // txtCurso
             // 
-            this.txtCurso.Location = new System.Drawing.Point(123, 121);
+            this.txtCurso.Location = new System.Drawing.Point(118, 125);
             this.txtCurso.Name = "txtCurso";
             this.txtCurso.Size = new System.Drawing.Size(334, 20);
             this.txtCurso.TabIndex = 9;
@@ -168,7 +168,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(37, 210);
+            this.label3.Location = new System.Drawing.Point(25, 210);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(106, 13);
             this.label3.TabIndex = 15;
@@ -195,7 +195,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "frmMaterTurma";
-            this.Text = "frmMaterTurma";
+            this.Text = "Manter Turmas";
             ((System.ComponentModel.ISupportInitialize)(this.dgvTurma)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

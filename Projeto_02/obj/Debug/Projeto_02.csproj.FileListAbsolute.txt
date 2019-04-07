@@ -52,3 +52,4 @@ C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csp
 C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.csproj.CoreCompileInputs.cache
 C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.exe
 C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.pdb
+C:\Users\arthu\Desktop\PROJETO_02\Projeto_02\Projeto_02\obj\Debug\Projeto_02.frmManterCurso.resources
