@@ -72,7 +72,7 @@ CREATE TABLE Professor (
 ID_Professor INT IDENTITY(1,1) PRIMARY KEY,
 Nome VARCHAR(80),
 Celular VARCHAR(11),
-Data_Nascimento DATE,
+Data_Nascimento VARCHAR(10),
 Email  VARCHAR(100),
 Senha  VARCHAR(30),
 ID_Coordenador_Professor INT,

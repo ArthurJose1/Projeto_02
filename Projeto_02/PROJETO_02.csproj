@@ -51,6 +51,7 @@
     <Compile Include="ClasseCurso.cs" />
     <Compile Include="ClasseFuncionario.cs" />
     <Compile Include="ClasseLogin.cs" />
+    <Compile Include="ClasseProfessor.cs" />
     <Compile Include="ClasseTurma.cs" />
     <Compile Include="frmAluno.cs">
       <SubType>Form</SubType>
